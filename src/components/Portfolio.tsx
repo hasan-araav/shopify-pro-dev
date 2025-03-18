@@ -3,19 +3,24 @@ import React from 'react';
 const Portfolio = () => {
   const portfolio = [
     {
-      image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80",
-      title: "Footwear Store",
-      description: "Complete store redesign with custom product configurator"
+      image: "https://i.imghippo.com/files/AtO8848LFQ.png",
+      title: "FlowerChimp",
+      description: "Malaysia's #1 Online Florist"
     },
     {
-      image: "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80",
-      title: "Fashion Boutique",
-      description: "Theme customization and performance optimization"
+      image: "https://i.imghippo.com/files/ofN2519MuM.png",
+      title: "CakeRush",
+      description: "Malaysia's #1 Online Same Day Cake Delivery"
     },
     {
-      image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80",
-      title: "Electronics Shop",
-      description: "Advanced filtering and search implementation"
+      image: "https://i.imghippo.com/files/rsk5313TY.png",
+      title: "LVLY",
+      description: "Flower Delivery Austrailia"
+    },
+    {
+      image: "https://i.imghippo.com/files/xzTW9459qew.png",
+      title: "LVLY",
+      description: "Bloomeroo - Same Day Flower Delivery Austrailia"
     }
   ];
 
